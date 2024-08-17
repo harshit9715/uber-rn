@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "uber-rn",
-    "slug": "uber-rn",
+    "name": "Uber",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "com.ddc.uber",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
